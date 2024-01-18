@@ -1,0 +1,42 @@
+.container{
+.title{
+    color: white;
+}
+.title span{
+    color: rgb(246, 186, 134);
+}
+}
+
+.reset {
+    width: 250px;
+    height: 100px;
+    border: double 2px white;
+    background: #294d5f;
+    color: #26ffcb;
+    cursor: pointer;
+    border-radius: 35px;
+}
+.boxes{
+    display: flex;
+    height: 180px;
+    width: 180px;
+    background-color: #294d5f;
+    border: 4px solid #062d3d;
+    border-radius: 12px ;
+    cursor: pointer;
+}
+.board{
+    height: 600px;
+    width: 564px;
+    display: flex;
+    margin: auto;
+
+}
+.board     img{
+    margin: 50px 50px;
+}
+.title img {
+height: 35px;
+
+    
+}
