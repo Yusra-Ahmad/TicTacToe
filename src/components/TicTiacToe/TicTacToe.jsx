@@ -74,7 +74,7 @@ const won =(winner)=>{
     if(winner=== "X"){
         titleRef.current.innerHTML =`Congragulations:  <img src="${cross_icon}" alt="cross_icon"> Wins`    }
         else {
-            titleRef.current.innerHTML =`Congraulations: <img src="${cross_icon}" alt="circle_icon"> Wins`
+            titleRef.current.innerHTML =`Congraulations: <img src="${circle_icon}" alt="circle_icon"> Wins`
         }
 }
 
