@@ -4,7 +4,7 @@ Welcome to the Tic Tac Toe React Game! This is a simple implementation of the cl
 
 ## 🎮 Play the Game
 
-[![Play Tic Tac Toe](path/to/your/image.png)](https://tic-tac-toe-game-sage-five.vercel.app/)
+[![Play Tic Tac Toe](tictactoe.png)](https://tic-tac-toe-game-sage-five.vercel.app/)
 
 Check out the live demo of the game by clicking the image above!
 
